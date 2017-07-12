@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    font-family: "Times New Roman";
+    font-size: 46px;
+}
+h2 {
+    color: antiquewhite;
+    font-family: cursive;
+    font-size: 26px;
+}
